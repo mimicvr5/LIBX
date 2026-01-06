@@ -74,6 +74,7 @@ Generates:
 
 ## License
 
-MIT License
+GNU GPL v3.0 License
+
 
 ###### See more details at [LICENSE](./LICENSE)
